@@ -1,0 +1,125 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family:'merriweathe'r,serif;
+    background-color: #CFF5E7;
+}
+h1{
+    margin: 0;
+    font-family: 'sacramento',cursive;
+    size:50px;
+}
+h2{
+  margin: 0;
+  font-family: 'montserrat',sans-serif;
+}
+h3{
+  margin: 0;
+  font-family: 'montserrat',sans-serif;
+}
+.top-container{
+    background-color: #CFF5E7;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+   /* background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    /*border: gold solid 20px;
+    margin-left: 260px;*/
+}
+
+.bottom-container{
+    /*background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    /*border: gold solid 30px;
+    margin-left: 500px;*/
+} 
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left:500px;
+}
+.bottom2-cloud{
+  position: absolute;
+  right:400px;
+
+}
+.top2-cloud{
+  position:absolute;
+  left:100px;
+}
+
+.top3-cloud{
+  position: relative;
+  right:200px;
+}
+
+.mountain{
+  position: relative;
+  left: 770px ;
+}
+
+.mountain2{
+  position: relative;
+  right: 320px ;
+}
+
+.mountain3{
+  position: absolute;
+  right: 945px ;
+}
+
+.sun{
+  position: relative;
+  right: 200px;
+}
+.profile-pic{
+  height :180px;
+}
+.table{
+  border: pink 2px;
+  position: relative;
+  left:35%;
+}
+.btn{
+  height: 30px;
+  position: relative;
+  top:10px
+}
+/* it is for boxes movement */
+/* .red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+  
+
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  display:inline-block;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  
+  }
+
+.yellow {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  display:inline-block;
+  position:absolute;
+  left:0px;
+  } */
